@@ -1,0 +1,26 @@
+create a chat application
+create a login and sign up page
+add the ability to send messages between users
+allow each user to have multiple friends
+have a search bar that allows you to find other users by name or email
+display all of their posts in real time on your profile page
+i am trying to build this app using php. i have created the basic structure for my project but now im stuck at how to proceed with
+make sure there is an option for them to add you as a friend if they want to communicate with you
+whenever someone sends you a message, it will show up on your screen immediately
+the app should be able to handle large amounts of data efficiently
+
+
+
+
+panipuri management system
+-login/signup pages
+-admin dashboard (with options to view orders, products, customers)
+-customer dashboard (view own order history, personal info, etc.)
+-product creation/editing interface
+-order placement interface
+-search functionality across all categories
+-real-time updates to customer's order statuses
+-email notifications when new orders are placed
+-secure payment processing using stripe API
+-user authentication and authorization
+
